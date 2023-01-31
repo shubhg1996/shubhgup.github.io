@@ -2,7 +2,7 @@
     title: Shubh Gupta
 ...
 
-![](/public/img/headshot.jpg "Shubh Gupta's Headshot"){ width=50%}
+![](/public/img/20221127_131951.jpg "Shubh Gupta's Headshot"){ width=50%}
 
 PhD Candidate, Electrical Engineering, Stanford University  
 <shubhgup@stanford.edu>
