@@ -29,7 +29,7 @@ Prior to attending UIUC, I was a student at IIT Kanpur where I earned a Bachelor
 
 * A. Mohanty, **S. Gupta**, G. Gao, A Particle-filtering Framework for Integrity Risk of GNSS-Camera Sensor Fusion. NAVIGATION: Journal of the Institute of Navigation, December 2021. <https://doi.org/10.1002/navi.455>
 
-* **S. Gupta**}*, A. Kanhere*, A. Shetty, G. Gao, Improving GNSS Positioning using Neural Network-based Corrections. Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+), September 2021, pp. 3068-3080. (Best Presentation Award). <https://doi.org/10.33012/2021.17999>
+* **S. Gupta***, A. Kanhere*, A. Shetty, G. Gao, Improving GNSS Positioning using Neural Network-based Corrections. Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+), September 2021, pp. 3068-3080. (Best Presentation Award). <https://doi.org/10.33012/2021.17999>
 
 * **S. Gupta**, G. Gao, Data-Driven Protection Levels for Camera and 3D Map-based Safe Urban Localization. NAVIGATION: Journal of the Institute of Navigation, September 2021. <https://doi.org/10.1002/navi.445>
 
