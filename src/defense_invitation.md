@@ -1,3 +1,7 @@
+---
+    title: Defense Invitation
+...
+
 Hi,
 
 I hope this mail finds you well. I am delighted to invite you to attend my upcoming PhD thesis defense. The details of the event are attached at the bottom this mail. 
