@@ -65,4 +65,4 @@ Prior to attending UIUC, I was a student at IIT Kanpur where I earned a Bachelor
 
 # News
 
-I'm defending! Please see the invitation [here](/defense_invitation).
+I'm defending! Please see the invitation [here](/defense_invitation.html).
