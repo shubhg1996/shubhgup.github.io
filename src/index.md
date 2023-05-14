@@ -62,3 +62,7 @@ Prior to attending UIUC, I was a student at IIT Kanpur where I earned a Bachelor
  * N. Jaipuria, R. Bhasin, **S. Gupta**, G. Sholingar Training deep neural networks with synthetic images. U.S. Patent No. 11,100,372. 24 Aug. 2021.
 
  * P. Gupta, **S. Gupta**, R. Sinha, S. Pal, A. Jayagopal, Saliency prediction for a mobile user interface. U.S. Patent No. 10,664,999. 26 May 2020.
+
+# News
+
+I'm defending! Please see the invitation [here](/defense_invitation).
