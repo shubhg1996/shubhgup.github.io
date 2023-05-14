@@ -16,7 +16,7 @@ Here is a brief outline of the schedule:
 The details of the event are as follows:
 
 
-<p style=“text-align: center;”>University Ph.D. Dissertation Defense
+University Ph.D. Dissertation Defense
 
 Department of Electrical Engineering
 
@@ -35,7 +35,7 @@ Advisor: Grace Gao
 
 **Zoom Link: [https://stanford.zoom.us/j/98405817616](https://stanford.zoom.us/j/98405817616?pwd=NFFWYjhNWUR2OWdsck5iUlNuWGRmUT09)** 
 
-Aviation stands as one of the safest sectors in transportation systems. By building on proven techniques from aviation, collectively termed as integrity monitoring, we address the challenges of achieving accurate and reliable localization in dynamic urban environments. Integrating these techniques into the localization pipeline allows us to mitigate measurement faults, estimate error bounds, and significantly enhance the reliability of the localization system. The presented techniques establish a robust foundation for autonomous vehicles to navigate urban settings with enhanced safety.</p>
+Aviation stands as one of the safest sectors in transportation systems. By building on proven techniques from aviation, collectively termed as integrity monitoring, we address the challenges of achieving accurate and reliable localization in dynamic urban environments. Integrating these techniques into the localization pipeline allows us to mitigate measurement faults, estimate error bounds, and significantly enhance the reliability of the localization system. The presented techniques establish a robust foundation for autonomous vehicles to navigate urban settings with enhanced safety.
 
 
 Please let me know if you have any questions. I hope to see you soon!
