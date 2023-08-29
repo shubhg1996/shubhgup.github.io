@@ -1,21 +1,27 @@
 ---
-    title: Shubh Gupta
-...
+title: Shubh Gupta
+---
 
-![](/public/img/20221127_131951.jpg "Shubh Gupta's Headshot"){ width=50%}
+![Shubh Gupta's Headshot](/public/img/20221127_131951.jpg){ width=50%}
 
 PhD Candidate, Electrical Engineering, Stanford University  
-<shubhgup@stanford.edu>
+[shubhgup@stanford.edu](mailto:shubhgup@stanford.edu)
 
-# Bio
+# bio
 
-I am a PhD candidate at Stanford University working with Professor [Grace Gao](https://aa.stanford.edu/people/grace-gao) on developing safe and reliable systems for autonomous navigation. My research focuses on multi-sensor state estimation, perception, and uncertainty quantification, with a particular emphasis on addressing the challenges faced by the autonomous vehicle industry. I have previously been the only TA of the courses AA272C: GLOBAL POSITIONING SYSTEMS in Winter 2020 and AA275: NAVIGATION AUTONOMOUS SYSTEMS in Fall 2020 and Fall 2021.
+I am a PhD candidate at Stanford University working with Professor [Grace Gao](https://aa.stanford.edu/people/grace-gao) on developing safe and reliable systems for autonomous navigation. My research focuses on robust localization, multi-sensor state estimation, perception, and uncertainty quantification, with a particular emphasis on addressing the challenges posed by urban environments. I have previously been the sole TA of the courses AA272C: GLOBAL POSITIONING SYSTEMS in Winter 2020 and AA275: NAVIGATION AUTONOMOUS SYSTEMS in Fall 2020 and Fall 2021.
 
-Prior to attending Stanford, I was a graduate student at the University of Illinois at Urbana-Champaign in the GPS Lab, where I worked on robust localization algorithms using GPS measurements. 
+Prior to attending Stanford, I was a graduate student at the University of Illinois at Urbana-Champaign in the GPS Lab, where I worked on robust localization algorithms using GPS measurements.
 
 Prior to attending UIUC, I was a student at IIT Kanpur where I earned a Bachelors of Technology in Electrical Engineering and a minor in Computer Architecture. I co-led the student team for participating in the [Intelligent Ground Vehicle Competition](http://www.igvc.org) in 2017 and was a member of the student team for participating in [ABU Robocon](https://www.aburobocon2023.com) in 2015 and 2016.
 
-# Papers
+# featured talks
+
+* **S. Gupta**, Data-Driven Protection Levels for Camera and 3D Map-based Safe Urban Localization. Institute of Navigation Webinar, November 2022. <https://www.ion.org/publications/webinar-gupta.cfm>
+
+* **S. Gupta**, Particle RAIM, Stanford Position. Navigation and Time Symposium, October 2019.
+
+# publications
 
 * **S. Gupta**, A. Mohanty, G. Gao, Getting The Best of Particle and Kalman Filters: GNSS Sensor Fusion using Rao-Blackwellized Particle Filter. NAVIGATION: Journal of the Institute of Navigation (submitted).
 
@@ -46,12 +52,6 @@ Prior to attending UIUC, I was a student at IIT Kanpur where I earned a Bachelor
 * **S. Gupta**, G. Gao, Particle RAIM for Integrity Monitoring. Proceedings of the 32nd International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+), September 2019, pp. 811-826. <https://doi.org/10.33012/2019.16939>
 
 * P. Gupta, **S. Gupta**, A. Jayagopal, S. Pal, R. Sinha, Saliency Prediction for Mobile User Interfaces. IEEE Winter Conference on Applications of Computer Vision (WACV), March 2018, pp. 1529-1538. <https://doi.org/10.1109/WACV.2018.00171>
-
-# Invited Talks
-
-* **S. Gupta**, Data-Driven Protection Levels for Camera and 3D Map-based Safe Urban Localization. Institute of Navigation Webinar, November 2022. <https://www.ion.org/publications/webinar-gupta.cfm>
-
-* **S. Gupta**, Particle RAIM, Stanford Position. Navigation and Time Symposium, October 2019.
 
 # Patents
 
