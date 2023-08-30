@@ -17,9 +17,7 @@
         <div id="ddesc">
           <h1>Shubh Gupta</h1>
           <h2>
-            I am a PhD candidate at Stanford University in the
-            <a href="https://navlab.stanford.edu/">NAVLAB</a>. My research focuses on
-            safe and reliable systems for autonomous navigation.
+            Ph.D. candidate | Department of Electrical Engineering, Stanford University
           </h2>
           <div id="dico">
             <a href="https://www.linkedin.com/in/shubhgupta1996"><img src="public/img/clinkedin.svg" class="iico" /></a>
@@ -35,13 +33,14 @@
       
     <div id="bio" class="container">
         <p>
-            I am a PhD candidate at Stanford University working with Professor <a href="https://aa.stanford.edu/people/grace-gao">Grace Gao</a> to develop safe and reliable systems for autonomous navigation. My research focuses on multi-sensor state estimation, perception, and uncertainty quantification, with a strong focus on addressing the challenges faced by autonomous vehicles in urban environments. I successfully defended my thesis titled "<em>High-Integrity Urban Localization: Bridging Safety in Aviation with Autonomous Driving</em>" in May 2023.
+            I am a PhD candidate in the <a href="https://ee.stanford.edu">Department of Electrical Engineering</a> at Stanford University. I am working with <a href="https://aa.stanford.edu/people/grace-gao">Professor Grace Gao</a> in the
+            <a href="https://navlab.stanford.edu/">Navigation and Autonomous Vehicles Lab (NAVLab)</a> to develop safe and reliable systems for autonomous navigation. My research focuses on robust localization, multi-sensor state estimation, perception, and uncertainty quantification, with a strong focus on addressing the challenges faced by autonomous vehicles in urban environments. I successfully defended my thesis titled "<em>High-Integrity Urban Localization: Bridging Safety in Aviation with Autonomous Driving</em>" in May 2023.
         </p>
         <p>
-            Prior to attending Stanford, I was a graduate student at the University of Illinois (UofI) at Urbana-Champaign in the GPS Lab, where I delved into robust localization algorithms grounded in GPS measurements.
+            Prior to attending Stanford, I was a graduate student in the <a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering</a> at the University of Illinois (U of I) at Urbana-Champaign in the GPS Lab, where I delved into robust localization algorithms grounded in GPS measurements.
         </p>
         <p>
-            Before my time at UofI, I was at Indian Institute of Technology (IIT) Kanpur where I earned a Bachelors of Technology in Electrical Engineering and a minor in Computer Architecture. During this period, I co-led the student team for participating in the <a href="http://www.igvc.org">Intelligent Ground Vehicle Competition</a> in 2017. Additionally, I was a member of the student team for participating in <a href="https://www.aburobocon2023.com">ABU Robocon</a> in 2015 and 2016.
+            Before my time at U of I, I was at Indian Institute of Technology (IIT) Kanpur where I earned a Bachelors of Technology in <a href="https://www.iitk.ac.in/ee/">Electrical Engineering</a> and a minor in <a href="https://www.cse.iitk.ac.in">Computer Science and Engineering</a>. During this period, I co-led the student team for participating in the <a href="https://en.wikipedia.org/wiki/Intelligent_Ground_Vehicle_Competition">Intelligent Ground Vehicle Competition</a> in 2017. Additionally, I was a member of the student team for participating in <a href="https://en.wikipedia.org/wiki/ABU_Robocon">ABU Robocon</a> in 2015 and 2016.
         </p>
         <p>
             My CV is available <a href="public/docs/cv.pdf">here</a>.
@@ -92,11 +91,7 @@
       <div>
         In 2015 I was the primary TA for the GPS class <a href="https://bulletin.stanford.edu/courses/1032171">AA272C: GLOBAL POSITIONING SYSTEMS</a> and was also involved in the design of the first autonomous navigation class <a href="https://bulletin.stanford.edu/courses/2226981">AA275: NAVIGATION AUTONOMOUS SYSTEMS</a> at Stanford. Both the classes are steadily growing from 12 students in 2020 to more than 30 students enrolled in 2022.
       </div>
-      <div class="image-container">
-        <img src="public/img/aa272c_class.jpg" class="side-by-side-image" />
-        <img src="public/img/aa275_class.jpg" class="side-by-side-image" />
-        <img src="public/img/aa275_class_ros.jpg" class="side-by-side-image" />
-      </div>
+      <img src="public/img/teaching.jpg" style="max-width:100%; border-radius:10px;"/>
     </div>
 
     <div style="background-color: #eee; padding-top: 1px; margin-top: 50px; padding-bottom: 30px;">
@@ -105,31 +100,31 @@
 
       <div class="project">
         <div class="pico"><img src="public/img/proj_deepgnss.jpg" /></div>
-        <div class="pdesc">Urban GNSS positioning faces errors due to signal reflections and blockage. To counter this, we've developed new Deep Neural Network (DNN) model-based methods, which intelligently combine traditional and modern methods.</div>
+        <div class="pdesc">In urban settings, GNSS positioning encounters complex non-Gaussian errors from signal reflections and blockages. We have introduced Deep Neural Network (DNN) techniques, based on <a href="https://doi.org/10.33012/navi.548">set-transformers</a> and <a href="https://doi.org/10.33012/2022.18494">learned high-dimensional least squares</a>, that effectively blend both traditional and modern methods to address this. Code is available <a href="https://github.com/Stanford-NavLab/deep_gnss">here</a>.</div>
         <div class="pend"></div>
       </div>
 
       <div class="project">
         <div class="pico"><img src="public/img/proj_multisensor.jpg" /></div>
-        <div class="pdesc">For multi-sensor localization in urban environments, uncertainty quantification remains a challenge due to the diverse and correlated noise sources. We devise algorithms that robustly estimate the state and uncertainty in urban settings, combining GNSS code/carrier phase, camera, and IMU data.</div>
+        <div class="pdesc">Urban multi-sensor localization is complex due to diverse and correlated noise sources. We design several robust algorithms to determine both the state and uncertainty when integrating sensors such as GNSS code/carrier phase, camera, and IMU data. See <a href="https://drive.google.com/file/d/1I4b-8cUfjoJnvo7nDSOBu3hZ4wdiJWLQ/view?usp=sharing">#1</a>, <a href="https://doi.org/10.1002/navi.455">#2</a> <a href="https://doi.org/10.33012/2022.18470">#3</a> <a href="https://doi.org/10.33012/2019.16939">#4</a> <a href="https://doi.org/10.48550/arXiv.2101.06380">#5</a>.</div>
         <div class="pend"></div>
       </div>
 
       <div class="project">
         <div class="pico"><img src="public/img/proj_ddpl.jpg" /></div>
-        <div class="pdesc">Visual localization has the challenge of being susceptible to high-dimensional and diverse noise sources that depend on the immediate surrounding environment. We develop algorithms to establish reliable error bounds in localization by strategically correlating camera images with a 3D point cloud map of a city.</div>
+        <div class="pdesc">Visual localization is affected by noise factors depending on the immediate surroundings of the navigating vehicle. We develop <a href="https://doi.org/10.1002/navi.445">novel algorithms</a> to establish reliable error bounds in localization by strategically correlating camera images with a 3D map of a city.</div>
         <div class="pend"></div>
       </div>
 
       <div class="project">
         <div class="pico"><img src="public/img/proj_risk.jpg" /></div>
-        <div class="pdesc">Assessing risk in autonomous driving systems requires identifying rare failures efficiently. To address this, we designed an encompassing framework that merges driving scenarios, sensor models, autonomous driving policies, and rare event simulation techniques, providing a holistic risk evaluation framework.</div>
+        <div class="pdesc">Assessing risk in autonomous driving systems requires efficient identifation of important yet rare failures. Our <a href="https://web.stanford.edu/~mossr/pdf/Autonomous_Vehicle_Risk_Assessment.pdf">comprehensive framework</a> integrates driving scenarios, sensor models, autonomous driving policies, and <a href="https://doi.org/10.48550/arXiv.2211.12470">novel rare event simulation techniques</a>, offering a complete risk assessment solution. The code is available <a href="https://github.com/sisl/AutonomousRiskFramework.jl">here</a>, <a href="https://github.com/shubhg1996/TreeImportanceSampling.jl">here</a>, and <a href="https://github.com/ancorso/EfficientRiskEstimation">here</a>.</div>
         <div class="pend"></div>
       </div>
 
       <div class="project">
         <div class="pico"><img src="public/img/proj_nerf.jpg" /></div>
-        <div class="pdesc">Effective representations of the environment are crucial for designing high-performance and reliable navigation algorithms. We explore environment representations based on Neural Radiance Fields (NeRFs) for localization using both camera and GNSS measurements, as well as for efficient path planning.</div>
+        <div class="pdesc">Effective representation of the environment is crucial for designing high-performance and reliable navigation algorithms. We explore environment representations based on Neural Radiance Fields (NeRFs) to aid in localization through camera and GNSS data and to enhance path planning efficiency.</div>
         <div class="pend"></div>
       </div>
     </div>
@@ -304,7 +299,7 @@
       var e_is_shown = false;
       document.getElementById('iemail').addEventListener("click", function(){
         let demail = document.getElementById('demail');
-        demail.innerHTML = 'shubhgup' + ' _at_ ' + 'stanford' + '.edu';
+        demail.innerHTML = 'shubhgup' + ' _at_ ' + 'stanford' + '_dot_' + 'edu';
         demail.style.opacity = e_is_shown ? 0 : 1;
         e_is_shown = !e_is_shown;
       })
