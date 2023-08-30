@@ -230,6 +230,15 @@ hr {
   display: block;
   color: #900;
 }
+.image-container {
+  display: flex;
+}
+
+.side-by-side-image {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-right: 10px; /* Add some spacing between images */
+}
 .patents {
   font-size: 14px;
   border-left: 4px solid #aaa;
